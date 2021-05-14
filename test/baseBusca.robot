@@ -1,9 +1,8 @@
 *** Settings ***
-Library     SeleniumLibrary
-
+Library             SeleniumLibrary
 
 *** Variables ***
-${url}              https://training-wheels-protocol.herokuapp.com/
+${url}              https://www.google.com
 
 
 *** Keywords ***
